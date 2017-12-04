@@ -1,0 +1,40 @@
+Directions:
+I have included both .py and .ipynb files, both achieve the same result except that with jupyter notebook, we can work on bits of code
+more easily as we can execute few line and keep its result saved for further processing. For instance, during the test, with jupyter notebooks
+one would not have to keep requesting website for the content. Below are the instructions that are common to both .py and .ipynb files.
+
+1) Install python 2.7.+ on the machine you are running this script or notebook.
+2) Install BeautifulSoup library with: pip install bs4
+    Install Pandas library with : pip install pandas
+    Install requests library with : pip install requests
+
+For WebScrapper.py:
+In terminal/ git-bash navigate to the directory in which the WebScrapper.py file is present and run the command :
+python ./WebScrapper.py
+
+There should be no errors, but if there are then try changing the permissions to the WebScrapper.py file with 'chmod' command.
+Running the script will generate 2 files: 'ofile.csv' and 'DOLRuling.jpg'
+
+ofile.csv contains the blog details from the link - http://ifpartners.com/cut-the-wire/ with information
+Title, Updated Time, Author, Content and Banner href
+
+DOLRuling.jpg is the first image on the website saved to local file system.
+
+
+For WebScrapper.ipynb:
+In addition to the libraries mentioned above add jupyter libraraies with following command:
+pip install jupyter
+
+Navigate to the directory in which the WebScrapper.ipynb file is present
+Start the Jupyter Notebook with command : 'jupyter notebook'
+A tab will open in the browser with files in the directory. Open 'WebScrapper.ipynb' and run each block with by hitting 'Ctrl+ Enter'
+
+Running all the blocks will generate 2 files: 'ipynb_ofile.csv' and 'ipynb_DOLRuling.jpg'
+
+ipynb_ofile.csv contains the blog details from the link - http://ifpartners.com/cut-the-wire/ with information
+Title, Updated Time, Author, Content and Banner href
+
+ipynb_DOLRuling.jpg is the first image on the website saved to local file system.
+
+
+
