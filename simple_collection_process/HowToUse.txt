@@ -3,6 +3,9 @@ I have included both .py and .ipynb files, both achieve the same result except t
 more easily as we can execute few line and keep its result saved for further processing. For instance, during the test, with jupyter notebooks
 one would not have to keep requesting website for the content. Below are the instructions that are common to both .py and .ipynb files.
 
+Tools used for the project:
+Python 2.7.13, PyCharm IDE, Jupyter Notebook, Git Bash, GitHub
+
 1) Install python 2.7.+ on the machine you are running this script or notebook.
 2) Install BeautifulSoup library with: pip install bs4
     Install Pandas library with : pip install pandas

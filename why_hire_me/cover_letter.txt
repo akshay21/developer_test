@@ -1,0 +1,24 @@
+Hello Mr. Slack,
+
+I am glad to introduce myself as a professional with Master of Science in Computer Science from University of Texas at Arlington.
+I am interested in applying for the Software Engineer opportunity available at Independent Financial Partners.
+I am currently employed as Software Development Intern at Sumeru Inc and as this is an intern position I am looking for full-time opportunities.
+The position of Software Engineer fits well with my education and career interests.
+
+I accepted my current position because it helped me get well acquainted with technologies like AWS EC2, CodeDeploy, Node.js, Express.js, MongDB, and RESTful APIs.
+I have worked cloud platforms and I have done several projects on cloud which have provided me with better understanding of cloud implementation.
+I was also the Vice-President of a club in the University and we as a club aimed to create stress-free and violence-free society.
+
+My undergraduate and graduate course work and projects in addition to my work experience have helped me to set up a strong foundation to grow in
+Software development (Java, Python, Javascript ), Cloud Computing (AWS, IBM Bluemix, Heroku) and Data Analytics (Hadoop, Spark, Kafka, Zookeeper, Hive, SQL, NoSQL, MongoDB).
+As a Technical Operations Student Associate, I got acquainted with enterprise software like PeopleSoft, FileZilla, Discoverer etc. and honed my SQL skills
+at the same time learnt more about project management and developed good work ethic. All this while maintaining my GPA at 3.67 and excelling in my academics.
+When working in Accenture India, I gained experience in aspects like Software Development Life Cycle and Software Maintenance while being a team player.
+
+I am looking forward to discuss this position if given the opportunity. Feel free to contact me at +1-682-313-1517 or akshay.gawali@mavs.uta.edu.
+I will follow up next week to check the status of your search. Thank you for considering my application.
+
+I chose python language for the refactoring exercise.
+
+Sincerely,
+Akshay Gawali.

@@ -1,22 +1,52 @@
 How many years of development experience do you have?
+I have around 2 years of development experience:
+Associate Software Engineer at Accenture - 6 months
+Technical Operations Student Associate at UT Arlington - 9 months
+Software Development Intern at Sumeru Inc - 5 months
 
+I have also developed applications, written scripts and deployed application during under graduate and graduate studies.
 
 How many years of JavaScript experience do you have?
+I have 1 year of JavaScript experience with following frameworks:
+AngularJS, NodeJS, ExpressJS, jQuery
 
 
 How many years of Ruby and/or Rails experience do you have?
-
+I have 6 months of Ruby on Rails experience.
 
 How many years of other high level language(s) if not Ruby or JavaScript do you have?
-
+I have 3 years of experience (including academic) with Java and 2 years of experience with Python.
 
 What are your opinions on Agile software development?
-
+I think Agile Software Development is a great methodology to follow while developing a software applications because:
+1) Agile follows iterative process, that means the team and the product owner can introduce changes or new features while the product is being developed. Rather than requesting changes
+    when the whole product is ready to deploy, like in waterfall model.
+2) As the team works towards developing shippable product at the end of the sprint, the product owner can see and monitor the progress of the project.
+3) Agile values people over process, responding to change over following a plan and customer collaboration over contract negotiation.
+4) Agile methodology follows some of the best practices for Test Driven Development, Code Review, Pair Programming, Burn down charts, daily scrums and more which eventually result in great product.
 
 TDD or BDD?
+TDD is an inside out process and is focused on satisfying the functionality of single unit.
+BDD is an outside in process and is focused on satisfying the behaviour of the product so it works towards delivering the value.
+
+In TDD, tests are written by developer and read by either developer or tester.
+In BDD, tests can be written by product owner or product owner along with developer and read by anyone.
+
+In TDD, as the unit tests are run, it is faster even if there is a mock dependency.
+In BDD, we are always testing the system as a whole, which means the system may have to put in the state given in the context, which can be time consuming.
+
+In TDD, if an unit test fails, we can easily find out what went wrong and point out the specific part of the code.
+In BDD, if the test fails, there is no way of knowing which component's failure caused the test to fail.
+
+Ideally, both TDD and BDD should be followed while developing the project.
+But if asked to choose one, I would choose TDD.
 
 
 What are you looking for in a job?
-
+I am hope to be able to use my existing skill set and knowledge to develop applications and solve problems and gain more experience by working on new technologies.
+I look for an environment which helps me grow both professionally and personally. I would like work along side people who like challenges and are as enthusiastic to solve them as me.
+I look for job that gives me satisfaction of having done something fruit-full in a day, even if it means spending a few extra hours as and when needed.
+I would like be part of IFP, and learn its culture and give back to the society during my free time.
 
 When can you start?
+I can start immediately and relocate to Tampa, FL.

@@ -1,0 +1,19 @@
+For the simple refactoring exercise I chose Python because I find myself more familiar with Python
+and to be consistent with the language chosen for simple collection process exercise.
+
+1) The Rakefile is Ruby file used for automating tasks mainly in Ruby on Rails.
+
+2) The README.md file markdown file with text.
+
+3) I refactored the code in "template.py" and "template_test.py" files as follows:
+    template.py
+    Since the existing code was manipulating and modifying strings, I decided to use string formatting by utilising "str.format()" method.
+    As refactoring often involves removing unnecessary code or redundant code, I removed some of the existing code to work on the "req-id" parameter.
+
+    template_test.py
+    Replaced the "%CODE%" and "%ALTCODE%" in the assertEqual() method to "{CODE}" and "{ALTCODE}" as we are using "str.format()".
+    Removed the "setup()" as it was not doing anything in the given code.
+    With all these changes, the unit test passes successfully.
+
+
+
